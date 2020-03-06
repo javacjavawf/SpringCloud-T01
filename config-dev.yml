@@ -1,6 +1,3 @@
 #config:
-  #info: "config info for dev(master)"
+  #info: "config info for dev(dev)"
 
-# 修改后信息
-config:
-  info: "update config info for dev(master)"
